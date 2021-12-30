@@ -1,6 +1,7 @@
 # Sales-Performace-in-Retail-Company
 
 **Dataset**
+
 This dataset is a homework given by Rakamin Academy in the "Kickstart Data Science Journey" training series. There are 8 columns and 1067371 rows that contains all transactions that occurred in 2009-2011 data from an online retail company.
 
 **Business Question**
